@@ -6,11 +6,11 @@
  
 <h2 align="center">
 
-![https://img.shields.io/badge/Licience-MIT-green](https://img.shields.io/badge/Licience-MIT-green)
+![https://img.shields.io/badge/License-MIT-green](https://img.shields.io/badge/License-MIT-green)
 [![GitHub issues](https://img.shields.io/github/issues/VipulRaj-123/Tic_Tac_Toe?style=plastic)](https://github.com/VipulRaj-123/Tic_Tac_Toe/issues)
 [![GitHub forks](https://img.shields.io/github/forks/VipulRaj-123/Tic_Tac_Toe)](https://github.com/VipulRaj-123/Tic_Tac_Toe/network)
 [![GitHub stars](https://img.shields.io/github/stars/VipulRaj-123/Tic_Tac_Toe?style=plastic)](https://github.com/VipulRaj-123/Tic_Tac_Toe/stargazers)
-![Contribotion](https://img.shields.io/badge/Contribution-Welcome-brightgreen)
+![Contribution](https://img.shields.io/badge/Contribution-Welcome-brightgreen)
 
 </h2>
 
