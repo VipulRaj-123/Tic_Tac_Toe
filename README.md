@@ -7,3 +7,4 @@
 [![GitHub forks](https://img.shields.io/github/forks/VipulRaj-123/Tic_Tac_Toe)](https://github.com/VipulRaj-123/Tic_Tac_Toe/network)
 [![GitHub stars](https://img.shields.io/github/stars/VipulRaj-123/Tic_Tac_Toe?style=plastic)](https://github.com/VipulRaj-123/Tic_Tac_Toe/stargazers)
 ![Contribution](https://img.shields.io/badge/Contribution-Welcome-brightgreen)
+</h2>
