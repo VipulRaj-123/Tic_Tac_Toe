@@ -22,8 +22,8 @@ Tic_Tac_Toe a simple game which most of us used to play in our childhood on a sh
 * Either a diagonal is completely filled
 
 ## How to see the live demo of the game?
--> Install VS Code on your local system
--> Now fork this repo and clone it
--> Install "Live Server" and open the index.html file with live server 
+-> Install VS Code on your local system.
+-> Now fork this repo and clone it.
+-> Install "Live Server" and open the index.html file with live server. 
 ![image](https://user-images.githubusercontent.com/57625616/127061536-e57b07e3-7825-4d3a-94c3-031b25759d96.png)
 -> You are ready to go 🎇 🎇
