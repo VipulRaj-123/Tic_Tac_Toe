@@ -25,6 +25,7 @@ Tic_Tac_Toe a simple game which most of us used to play in our childhood on a sh
 >-  Install VS Code on your local system.
 >-  Now fork this repo and clone it.
 >-  Install "Live Server" and open the index.html file with live server. 
+![https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 >-  You are ready to go 🎇 🎇
 
- ![image](https://user-images.githubusercontent.com/57625616/127061536-e57b07e3-7825-4d3a-94c3-031b25759d96.png)
+ 
