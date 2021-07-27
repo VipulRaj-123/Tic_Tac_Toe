@@ -5,20 +5,20 @@
 }
 
 .background {
-    background-color: #12181B;
+    background-color: #744c71f6;
     height: 100vh;
     padding-top: 1px;
 }
 
 .title {
-    color: white;
+    color: rgba(255, 255, 255, 0.938);
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
 }
 
 .display {
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 25px;
     text-align: center;
     margin-top: 1em;
@@ -39,7 +39,7 @@
 }
 
 .tile {
-    border: 1px solid white;
+    border: 1px solid rgba(255, 255, 255, 0.63);
     min-width: 100px;
     min-height: 100px;
     display: flex;
@@ -50,11 +50,11 @@
 }
 
 .playerX {
-    color: #09C372;
+    color: #09c395;
 }
 
 .playerO {
-    color: #498AFB;
+    color: #fbe949;
 }
 
 .controls {
@@ -66,7 +66,7 @@
 }
 
 .controls button {
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 8px;
     border-radius: 8px;
     border: none;
@@ -76,9 +76,9 @@
 }
 
 .restart {
-    background-color: #498AFB;
+    background-color: #7849fb;
 }
 
 #reset {
-    background-color: #FF3860;
+    background-color: #ff38de;
 }
