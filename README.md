@@ -1,4 +1,5 @@
-![Tic_Tac_Toe](https://user-images.githubusercontent.com/57625616/127051810-01d9eec0-51c9-4a07-9325-aefe22b29692.jpeg)
+![Tic_Tac_Toe](https://user-images.githubusercontent.com/57625616/127145965-e39743d1-5323-44fe-aab2-a0c16d91b74f.jpeg)
+
 
 <h1 align="center"> TIC_TAC_TOE <br/>A simple fun game</h1> 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
